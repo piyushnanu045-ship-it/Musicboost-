@@ -15,3 +15,4 @@ Frontend: React / Flutter / Android
 Backend: Node.js / Firebase
 Database: MongoDB / Firebase
 API: REST API
+.
