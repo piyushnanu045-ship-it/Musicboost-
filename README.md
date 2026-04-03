@@ -11,6 +11,7 @@ Harmony is a modern music streaming application inspired by Spotify, built to de
 📱 Responsive design
 🔔 Smart recommendations
 🚀 Tech Stack
+
 Frontend: React / Flutter / Android
 Backend: Node.js / Firebase
 Database: MongoDB / Firebase
